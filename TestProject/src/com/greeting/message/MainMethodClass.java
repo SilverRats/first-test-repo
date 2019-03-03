@@ -4,6 +4,7 @@ public class MainMethodClass {
 
 	public static void main(String[] args) {
 		new MainMethodClass().greet();
+		System.out.println("Greeted from the method tested succesfully.");
 
 	}
 
